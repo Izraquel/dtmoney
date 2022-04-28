@@ -16,8 +16,8 @@ createServer({
           title: 'Frelance de website',
           type: 'deposit',
           category: 'Dev',
-          amount: 6000,
-          createdAt: new Date('2021-02-12 09:00:00'),
+          amount: 600,
+          createdAt: new Date('2022-02-12 09:00:00'),
         },
 
         {
@@ -26,7 +26,7 @@ createServer({
           type: 'withdraw',
           category: 'Casa',
           amount: 1100,
-          createdAt: new Date('2021-02-1 11:00:00'),
+          createdAt: new Date('2022-02-1 11:00:00'),
         },
       ]
     })
